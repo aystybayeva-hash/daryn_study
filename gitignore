@@ -1,0 +1,24 @@
+# Секреты
+.env
+*.env
+credentials.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.egg-info/
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Логи
+*.log
+
+# ОС
+.DS_Store
+Thumbs.db
