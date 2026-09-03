@@ -1,3 +1,0 @@
-aiogram~=3.15
-gspread~=6.1.4
-google-auth~=2.34.0
